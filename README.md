@@ -5,13 +5,13 @@
 
 ## Links
 
-- [Repository](https://github.com/mikolaj-halemba/R-Shiny-App "<R Shiny App> Repository")
+- [Repository](https://github.com/mikolaj-halemba/R-Shiny-App"<R Shiny App> Repository")
 
 ## Screenshots
 
-![Table]()
-![Maps]()
-![Visualization]()
+![Table](https://github.com/mikolaj-halemba/R-Shiny-App/blob/main/images/Table.png)
+![Maps](https://github.com/mikolaj-halemba/R-Shiny-App/blob/main/images/Maps.png)
+![Visualization](https://github.com/mikolaj-halemba/R-Shiny-App/blob/main/images/Visualizations.png)
 
 ## Built With
 
