@@ -5,7 +5,7 @@
 
 ## Links
 
-- [Repository](https://github.com/mikolaj-halemba/R-Shiny-App"<R Shiny App> Repository")
+- [Repository](https://github.com/mikolaj-halemba/R-Shiny-App "<R Shiny App> Repository")
 
 ## Screenshots
 
