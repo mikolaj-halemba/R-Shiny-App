@@ -1,4 +1,3 @@
-# R-Shiny-App
 <h1 align="center">R Shiny Application</h1>
 
 <p align="center"> An app has been developed to show the current number of deaths in the countries of the European Union.</p>
