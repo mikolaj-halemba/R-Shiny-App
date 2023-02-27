@@ -3,14 +3,13 @@
 
 <p align="center"> An app has been developed to show the current number of deaths in the countries of the European Union.</p>
 
-## Links
-
-- [Repository](https://github.com/mikolaj-halemba/R-Shiny-App "<R Shiny App> Repository")
 
 ## Screenshots
-
+#### Table
 ![Table](https://github.com/mikolaj-halemba/R-Shiny-App/blob/main/images/Table.png)
+#### Maps
 ![Maps](https://github.com/mikolaj-halemba/R-Shiny-App/blob/main/images/Maps.png)
+#### Visualization
 ![Visualization](https://github.com/mikolaj-halemba/R-Shiny-App/blob/main/images/Visualizations.png)
 
 ## Built With
