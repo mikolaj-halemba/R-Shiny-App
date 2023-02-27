@@ -1,4 +1,4 @@
-# Halemba Mikolaj 123662
+# Halemba Mikolaj
 
 options(width=250)
 rm(list=ls())
